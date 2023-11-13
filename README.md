@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Use this study guide to review the notes in the different sections
+Use this study guide to review the notes in the different sections. 
 In the Chrome DevTools(open with Command+Option+I for macOS, or Control+Shift+I for Windows), in the console section you can see a list of the topics learned in the Prework along with a suggestion of which topic to study
 
 ## Credits
