@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This study guide was created to assist in learning how to develop end to end web applications.
 I will continue to use it to keep track of my notes and also to practice honing my skills as a developer.
 I learned how HTML, CSS, and JavaScript interact to create a web application and the basics on how they are used.
